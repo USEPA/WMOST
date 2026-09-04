@@ -1,0 +1,24 @@
+{
+  "name": "WMOST",
+  "organization": "U.S. Environmental Protection Agency",
+  "description": "Contains Watershed Management Optimization Support Tool (WMOST) documentation and tools with coding in VBA and R.",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "MIT",
+        "URL": "https://github.com/USEPA/WMOST/main/license.md"
+      }
+    ],
+    "usageType": "openSource"
+  },
+  "tags": [
+    "EPA",
+    "WMOST"
+  ],
+  "contact": {
+    "email": "detenbeck.naomi@epa.gov",
+    "name": "Naomi Detenbeck"
+  },
+  "repositoryURL": "https://github.com/USEPA/WMOST",
+  "vcs": "git"
+}
