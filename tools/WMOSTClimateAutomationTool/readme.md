@@ -34,4 +34,4 @@ Development Language:	R
 
 [CAM_WRAP.R (r)](cam_wrap_v5.r) - Climate Assessment Module Wrapper
 
-[Tutorial Files (zip)](tutorial_data_folder.zip) - Zipped directory of tutorial files
+[Tutorial Files (zip)](tutorial_data_folder.zip) - Zipped directory of tutorial files available at: https://doi.org/10.5281/zenodo.22310571
